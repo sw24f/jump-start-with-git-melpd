@@ -38,5 +38,5 @@ You can connect with developers around the world to ask and answer questions, le
 ## Personal Notes
 I have experience with Git and GitHub. That said, I am still getting used to doing things like making new branches.
 I am also still getting used to Markdown syntax.
-I have never used the command git diff before. After some experimenting, I learned you can onl use it when if you’ve modified files but haven’t staged them for commit.
+I have never used the command git diff before. After some experimenting, I learned you can only use it when if you’ve modified files but haven’t staged them for commit.
 I also learned that to view the differences between two commits, you have to use their commit hashes, which are found using git log.
